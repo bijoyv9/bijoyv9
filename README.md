@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="330" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="315" alt="Top Languages" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=bijoyv9&theme=dark&hide_border=true" width="500" alt="GitHub Streak" />
 </div>
