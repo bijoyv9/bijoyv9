@@ -2,8 +2,12 @@
 
 ###
 
-# 📊 GitHub Stats:
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="41%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="35%" alt="Top Languages" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bijoyv9&theme=dark&hide_border=true" width="60%" alt="GitHub Streak" />
+</div># 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="41%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="41%" alt="Top Languages" />
