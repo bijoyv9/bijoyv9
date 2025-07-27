@@ -2,9 +2,14 @@
 
 ###
 
+# 📊 GitHub Stats:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="500" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bijoyv9&theme=dark&hide_border=true" width="500" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="500" alt="Top Languages" />
 </div>
 
 ###
