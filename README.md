@@ -33,7 +33,7 @@ Building since... a while. Still going.
 
 ## `$ cat about.txt`
 
-I dig into the lower layers of Android — kernels, device trees, hardware abstraction layers. Currently maintaining trees for **Realme GT Neo 3T (spartan)** & **Realme GT Neo 2 (bitra)** on Snapdragon 870.
+I dig into the lower layers of Android — kernels, device trees, hardware abstraction layers. Currently maintaining trees for **Realme GT Neo 3T (spartan)** on Snapdragon 870.
 
 - 🔧 Working on Android kernel source & device bringup
 - 🌐 Tinkering with AOSP & custom ROM trees
@@ -57,26 +57,16 @@ I dig into the lower layers of Android — kernels, device trees, hardware abstr
 
 ---
 
-## `$ git log --oneline --graph` · Pinned
-
-```
-* android_device_realme_spartan   — Device tree · Realme GT Neo 3T
-* android_hardware_oplus          — Hardware configs for Oppo/Realme
-* android_kernel_realme_sm8250    — Kernel source · SM8250 / Snapdragon 870
-* device_realme_spartan-kernel    — Prebuilt kernel · Realme GT Neo 3T
-```
-
----
-
 ## `$ neofetch --stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijoyv9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bijoyv9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bijoyv9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoyv9&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=bijoyv9&theme=tokyonight&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&background=0d1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=bijoyv9&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
